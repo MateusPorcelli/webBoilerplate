@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0; }
+  body a {
+    font-weight: bold;
+    font-family: serif; }
+    body a:hover {
+      background-color: #eee; }
+  body .box {
+    width: 100%;
+    height: 100%;
+    border: none; }
+  body .teste {
+    height: auto;
+    width: auto;
+    border: #eeeeee;
+    max-height: 100%; }
